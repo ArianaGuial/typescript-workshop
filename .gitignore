@@ -1,1 +1,10 @@
 node_modules
+
+dist/
+
+*.d.ts
+
+*.log
+
+.DS_Store
+Thumbs.db
